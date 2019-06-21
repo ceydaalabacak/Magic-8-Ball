@@ -1,0 +1,42 @@
+h1{
+  color: white;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+}
+.message{
+    color: white;
+  width: 500px;
+  height: 490px;
+  margin-top: 300px;
+
+}
+
+button{
+  margin:-100px;
+  border-width: thick;
+  border-color: #2926DC;
+
+
+}
+input{
+  border-width: thick;
+    border-color: #2926DC;
+    height: 50px;
+    width: 300px;
+    text-align: center;
+
+}
+div{
+  margin-top: 10px;
+  size: 400px;
+
+}
+
+body{
+  background: url(https://noderun.com/embed/bernice/magic-8-ball-app/public/8-Ball.png);
+  background-repeat: no-repeat;
+  background-color: black;
+  background-position: center;
+  background-size: 500px;
+  text-align:center;
+}
